@@ -1,5 +1,5 @@
 
-# Jogo Pi Seven
+# Jogo do Numero Secreto
 
 Bem-vindo ao **Jogo do Numero Secreto**! 🎮✨
 
